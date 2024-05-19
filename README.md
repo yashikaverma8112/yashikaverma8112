@@ -12,7 +12,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashika-verma-32a189229" height="30" width="40" />
 </a>
  <a href="https://leetcode.com/u/yashika_verma/" target="_blank">
-        <img align="center" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/LeetCode_nav.4d940ca9.svg" alt="LeetCode" height="30" width="40" />
+        <img align="center" src="![image](https://github.com/yashikaverma8112/yashikaverma8112/assets/96378034/4fe66444-b34b-4049-b514-19ab21f26ff0)" alt="LeetCode" height="30" width="40" />
     </a>
 
      <a href="https://www.naukri.com/code360/profile/yashika_verma" target="_blank">
