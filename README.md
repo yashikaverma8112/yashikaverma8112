@@ -8,7 +8,24 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yashika-verma-32a189229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashika-verma-32a189229" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yashika-verma-32a189229" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashika-verma-32a189229" height="30" width="40" />
+</a>
+ <a href="https://leetcode.com/u/yashika_verma/" target="_blank">
+        <img align="center" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/LeetCode_nav.4d940ca9.svg" alt="yashika620" height="30" width="40" />
+    </a>
+
+     <a href="https://www.naukri.com/code360/profile/yashika_verma" target="_blank">
+        <img align="center" src="https://img.icons8.com/color/48/000000/coding-ninjas-logo.png" alt="yashika620" height="30" width="40" />
+    </a>
+
+      <a href="https://www.geeksforgeeks.org/user/engryashikaverma8112/" target="_blank">
+        <img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_complete_logo_2x-min.png" alt="yashika620" height="30" width="40" />
+    </a>
+     <a href="https://www.hackerrank.com/profile/engryashikaverma" target="_blank">
+        <img align="center" src="https://hrcdn.net/community-frontend/assets/favicon-ddc852f75a.png" alt="yashika620" height="30" width="40" />
+    </a>
+    <a href = "https://www.codechef.com/users/yashika_620" target= "_blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yashika620" height="30" width="40" /></a>
 </p>
 
