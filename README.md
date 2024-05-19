@@ -15,16 +15,7 @@
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="LeetCode" height="30" width="40" />
     </a>
 
-     <a href="https://www.naukri.com/code360/profile/yashika_verma" target="_blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/cdn.svg" alt="yashika620" height="30" width="40" />
-    </a>
 
-      <a href="https://www.geeksforgeeks.org/user/engryashikaverma8112/" target="_blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" alt="yashika620" height="30" width="40" />
-    </a>
-     <a href="https://www.hackerrank.com/profile/engryashikaverma" target="_blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="yashika620" height="30" width="40" />
-    </a>
     <a href = "https://www.codechef.com/users/yashika_620" target= "_blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yashika620" height="30" width="40" /></a>
 </p>
